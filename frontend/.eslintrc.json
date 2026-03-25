@@ -9,6 +9,7 @@
     "ecmaFeatures": {
       "jsx": true
     }
+    
   },
   "settings": {
     "react": {
